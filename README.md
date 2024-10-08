@@ -6,4 +6,4 @@
 4. **functions.php** - файл для определения функции проекта
 
 **Квази-компонент:**
-В папке components хранится, квази компонент **custom:empty**. Подробнее https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2993
+В папке components хранится квази компонент **custom:empty**. Подробнее https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2993
